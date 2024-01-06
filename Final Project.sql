@@ -41,8 +41,10 @@ VALUES
 ('Van hoc gia tuong'),
 ('Thoi trang nu'),
 ('Ao phong'),
-('Duong moi');
-
+('Duong moi'),
+('Sach tieng viet'),
+('Sach tieng anh'),
+('
 
 /* SELLERS TABLE */
 CREATE TABLE Sellers (
