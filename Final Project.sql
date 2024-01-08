@@ -36,12 +36,11 @@ VALUES
 ('Phu kien Laptop'),
 ('Kinh vien thi'),
 ('Thuoc nhuom toc'),
-('Chao chong dinh'),
 ('Do gia dung'),
 ('Van hoc gia tuong'),
 ('Thoi trang nu'),
 ('Ao phong'),
-('Duong moi');
+('My pham');
 
 
 /* SELLERS TABLE */
